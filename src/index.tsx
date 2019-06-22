@@ -1,4 +1,4 @@
-import React, { useState, MouseEvent } from 'react';
+import React from 'react';
 import { render } from 'react-dom';
 import useCounter from './hooks/useCounter';
 import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
