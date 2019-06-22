@@ -8,7 +8,7 @@
 
 ## Blog post
 
-I'll publish a post on my [blog.alexanderwolf.tech](blog.alexanderwolf.tech) soon. So you can read more about it there.
+I'll publish a post on my [blog.alexanderwolf.tech](https://blog.alexanderwolf.tech) soon. So you can read more about it there.
 
 ## Installation
 
