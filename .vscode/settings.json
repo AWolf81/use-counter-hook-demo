@@ -2,10 +2,12 @@
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
-  "eslint.autoFixOnSave": true,
   "editor.formatOnSave": true,
   "javascript.format.enable": false,
   "[typescriptreact]": {
     "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
   }
 }
